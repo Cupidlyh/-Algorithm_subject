@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1601212326 source:e:\code\À¢Ã‚\hdoj\hd2612\main.cpp
+	<iostream>
+	<algorithm>
+	<cstring>
+	<queue>
+	<stack>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<vector>
+

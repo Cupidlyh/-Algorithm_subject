@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1590046214 source:e:\code\À¢Ã‚\csuoj\csuoj 1087\main.cpp
+	<iostream>
+	<algorithm>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+

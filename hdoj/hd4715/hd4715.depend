@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1559345054 source:g:\hd4715\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1559345054 source:e:\hd acm\hd4715\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

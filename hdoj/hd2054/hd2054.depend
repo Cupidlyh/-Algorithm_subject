@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1552210913 source:e:\hd acm\hd2054\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1559301770 source:e:\新建文件夹\hd acm\hd2054\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

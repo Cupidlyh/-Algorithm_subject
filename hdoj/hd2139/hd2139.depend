@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1563154705 source:e:\hdoj\hd2139\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

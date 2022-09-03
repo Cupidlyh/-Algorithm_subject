@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1576905677 source:c:\users\lyh\desktop\hd2104\main.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+

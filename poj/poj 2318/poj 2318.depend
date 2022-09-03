@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1579953676 source:e:\code\poj\poj 2318\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+

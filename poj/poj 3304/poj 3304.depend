@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1580728506 source:e:\code\poj\poj 3304\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+

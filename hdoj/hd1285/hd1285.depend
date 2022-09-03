@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1596508863 source:e:\code\À¢Ã‚\hdoj\hd1285\main.cpp
+	<iostream>
+	<algorithm>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<vector>
+	<queue>
+

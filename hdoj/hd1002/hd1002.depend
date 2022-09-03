@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1552184474 source:e:\hd acm\hd1002\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1558268136 source:e:\新建文件夹\hd acm\hd1002\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

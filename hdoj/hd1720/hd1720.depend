@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1576898706 source:c:\users\lyh\desktop\hd1720\main.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+

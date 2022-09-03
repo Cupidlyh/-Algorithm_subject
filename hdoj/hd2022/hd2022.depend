@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553412473 source:e:\hd acm\hd2022\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1580038889 source:e:\code\poj\poj 1269\main.cpp
+	<iostream>
+	<cstdio>
+

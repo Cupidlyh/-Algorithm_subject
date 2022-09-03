@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1559719322 source:g:\hd2710\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1560600601 source:e:\hd acm\hd2710\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

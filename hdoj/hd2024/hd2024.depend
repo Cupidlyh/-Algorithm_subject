@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553397551 source:e:\hd acm\hd2024\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1562914483 source:e:\hdoj\hd2567\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

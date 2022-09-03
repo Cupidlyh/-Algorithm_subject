@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1575631908 source:e:\code\hdoj\hd2544\main.cpp
+	<iostream>
+	<climits>
+

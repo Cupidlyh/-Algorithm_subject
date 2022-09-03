@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1575708413 source:e:\code\hdoj\hd2066\main.cpp
+	<iostream>
+	<climits>
+	<queue>
+	<cstring>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1552742734 source:e:\hd acm\hd2015\main.c
+	<stdio.h>
+	<stdlib.h>
+

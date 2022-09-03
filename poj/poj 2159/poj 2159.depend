@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1589854793 source:e:\code\À¢Ã‚\poj\poj 2159\main.cpp
+	<iostream>
+	<algorithm>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1611285095 source:e:\code\À¢Ã‚\poj\poj 2533\main.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<map>
+	<queue>
+	<stack>
+

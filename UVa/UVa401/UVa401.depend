@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1586333580 source:e:\code\À¢Ã‚\uva\uva401\main.cpp
+	<iostream>
+	<algorithm>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<map>
+

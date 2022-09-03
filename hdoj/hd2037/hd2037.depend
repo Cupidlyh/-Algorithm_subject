@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1558752768 source:g:\hd2037\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1558752768 source:e:\hd acm\hd2037\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1575540697 source:e:\code\poj\poj 3268\main.cpp
+	<iostream>
+	<cstring>
+	<climits>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1558794009 source:e:\新建文件夹\hd acm\hd2564\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

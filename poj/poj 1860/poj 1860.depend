@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1575857252 source:c:\users\lyh\desktop\poj 1860\main.cpp
+	<iostream>
+	<climits>
+	<queue>
+	<cstring>
+
